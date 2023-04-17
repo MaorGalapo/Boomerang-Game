@@ -6,3 +6,5 @@ I have implemented power ups (slow-motion, attack speedup, teleport, boost) and 
 There is also a shop and destroyable obstacles (the trees with a leaf and no spikes on them).
 
 
+All Visual assets were created by me exept the water beackground that i created with the help of Ghost Studios video :https://www.youtube.com/watch?v=yJrc_ywpTJw&t=1s
+
