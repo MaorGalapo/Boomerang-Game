@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Enemy
+  - Obsticale
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - partical
+  - Player
+  - Weapon
+  - Obs
+  - BreakObs
+  - PickUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1308557919
+    locked: 0
+  - name: pickups
+    uniqueID: 239043841
+    locked: 0
+  - name: dodgestuff
+    uniqueID: 4078839849
+    locked: 0
+  - name: shot
+    uniqueID: 2210328843
+    locked: 0
+  - name: trail
+    uniqueID: 2139096451
+    locked: 0
+  - name: partical
+    uniqueID: 594467489
+    locked: 0
+  - name: player
+    uniqueID: 191526627
+    locked: 0
+  - name: weapon
+    uniqueID: 1441789381
+    locked: 0
+  - name: Bounds
+    uniqueID: 52959225
+    locked: 0

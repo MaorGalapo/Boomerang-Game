@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006feb164bf27804994d89e2cbc0c47c, type: 3}
+  m_Name: SlowMo
+  m_EditorClassIdentifier: 
+  ID: SlowMotionPowerUp
+  itemName: Slow Motion
+  itenDescription: Slows time for a certin duration
+  itemPrice: 3700000073000000dc000000
+  itemImage: {fileID: 21300000, guid: f554e7395f30c8a49946c3162fc0ed80, type: 3}
+  consumable: 0
